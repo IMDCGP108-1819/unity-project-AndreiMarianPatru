@@ -831,6 +831,7 @@ GameObject:
   - component: {fileID: 1783417208}
   - component: {fileID: 1783417210}
   - component: {fileID: 1783417211}
+  - component: {fileID: 1783417212}
   m_Layer: 0
   m_Name: player
   m_TagString: Untagged
@@ -925,3 +926,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lives: 7
   livestxt: {fileID: 380069883}
+--- !u!114 &1783417212
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1783417207}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ce140bed555a9c498242eb7db19b97d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

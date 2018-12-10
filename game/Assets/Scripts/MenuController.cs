@@ -8,7 +8,7 @@ public class MenuController : MonoBehaviour
 {
 
     public Button NewGame;
-    public Button Guide;
+    public Button info;
     public Button Quit;
 
  

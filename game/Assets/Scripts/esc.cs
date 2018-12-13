@@ -12,6 +12,7 @@ public class esc : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        //set the "esc" button to get you to the main menu
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             SceneManager.LoadScene("Menu");

@@ -19,7 +19,6 @@ public class prefabspawner : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-        //spawn a random asteroid 
 		if(Time.time>nextSpawn)
         {
            
@@ -58,7 +57,7 @@ public class prefabspawner : MonoBehaviour {
                     break;
 
             }
-            //set the time the next asteroid spawn
+            //Instantiate(prefab, transform.position, Quaternion.identity);
             nextSpawn = Time.time + spawnRate;
             if(spawnRate>=0.30f)
             {

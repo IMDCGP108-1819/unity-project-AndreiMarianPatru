@@ -9,6 +9,7 @@ https://docs.unity3d.com/ScriptReference/Vector3.MoveTowards.html
 https://www.youtube.com/watch?v=p8MzsDBI5EI
 https://github.com/IMDCGP108-1819/ExampleUnityProject
 https://unity3d.com/learn/tutorials/projects/space-shooter/adding-a-background
+https://forum.unity.com/threads/from-unity-ui-to-textmeshpro.463619/
 
 
 

@@ -409,7 +409,7 @@ MonoBehaviour:
   m_text: 'Earth is in great danger. An evil group of asteroids seeks to destroy Earth.
 
 
-    But humans manage to build the greatest guns of all times to defend themselves.
+    But humans manage to build the greatest guns of all time to defend themselves.
 
 
     Operate the "Scream beam" using "a" and "d" to destory those evil rocks.
@@ -461,7 +461,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 40
+  m_firstOverflowCharacterIndex: 43
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -481,15 +481,15 @@ MonoBehaviour:
   m_firstVisibleCharacter: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -204.09702, y: 0, z: -229.5259, w: 0}
+  m_margin: {x: -229.63814, y: -0.000033045562, z: -231.03343, w: 0}
   m_textInfo:
     textComponent: {fileID: 1415708344}
-    characterCount: 243
+    characterCount: 242
     spriteCount: 0
     spaceCount: 45
     wordCount: 43
     linkCount: 0
-    lineCount: 11
+    lineCount: 10
     pageCount: 1
     materialCount: 1
   m_havePropertiesChanged: 0

@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-
+using TMPro;
 public class playerCollider : MonoBehaviour {
 
     public int lives = 7;
-    public Text livestxt;
+    public TextMeshProUGUI livestxt;
     // Use this for initialization
     void Start()
     {
